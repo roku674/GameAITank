@@ -8,6 +8,8 @@
 *.sln
 *.info
 *.shader
+*.mat
+*.prefab
 Library
 ProjectSettings
 obj
