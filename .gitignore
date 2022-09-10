@@ -1,0 +1,11 @@
+
+*.csproj
+*.meta
+*.bin
+*.asset
+*.cache
+*.userprefs
+*.sln
+*.info
+Library
+ProjectSettings
